@@ -1,0 +1,406 @@
+{
+  "city": "昆明",
+  "source": "高德地图 Web服务 API /v3/place/text",
+  "places": [
+    {
+      "id": "airport",
+      "name": "昆明长水国际机场",
+      "hits": [
+        {
+          "amap_id": "B03670W002",
+          "amap_name": "昆明长水国际机场",
+          "lng": 102.935835,
+          "lat": 25.099565,
+          "address": "大板桥街道长水社区",
+          "tel": "0871-96566",
+          "type": "交通设施服务;机场相关;飞机场",
+          "keyword": "昆明长水国际机场",
+          "adname": "官渡区"
+        },
+        {
+          "amap_id": "B03670W002",
+          "amap_name": "昆明长水国际机场",
+          "lng": 102.935835,
+          "lat": 25.099565,
+          "address": "大板桥街道长水社区",
+          "tel": "0871-96566",
+          "type": "交通设施服务;机场相关;飞机场",
+          "keyword": "长水国际机场",
+          "adname": "官渡区"
+        }
+      ],
+      "verified": true,
+      "amap_id": "B03670W002",
+      "amap_name": "昆明长水国际机场",
+      "lng": 102.935835,
+      "lat": 25.099565,
+      "address": "大板桥街道长水社区",
+      "tel": "0871-96566",
+      "type": "交通设施服务;机场相关;飞机场",
+      "keyword_used": "昆明长水国际机场",
+      "adname": "官渡区",
+      "uri": "https://uri.amap.com/marker?position=102.935835,25.099565&name=%E6%98%86%E6%98%8E%E9%95%BF%E6%B0%B4%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 0.0
+    },
+    {
+      "id": "east_bus",
+      "name": "昆明东部汽车客运站",
+      "hits": [
+        {
+          "amap_id": "B0367084ER",
+          "amap_name": "昆明市东部汽车客运站",
+          "lng": 102.788862,
+          "lat": 25.036904,
+          "address": "虹桥路与照青路交汇处东北角",
+          "tel": "0871-63833680",
+          "type": "交通设施服务;长途汽车站;长途汽车站",
+          "keyword": "昆明东部汽车客运站",
+          "adname": "盘龙区"
+        },
+        {
+          "amap_id": "B0367084ER",
+          "amap_name": "昆明市东部汽车客运站",
+          "lng": 102.788862,
+          "lat": 25.036904,
+          "address": "虹桥路与照青路交汇处东北角",
+          "tel": "0871-63833680",
+          "type": "交通设施服务;长途汽车站;长途汽车站",
+          "keyword": "东部汽车站",
+          "adname": "盘龙区"
+        }
+      ],
+      "verified": true,
+      "amap_id": "B0367084ER",
+      "amap_name": "昆明市东部汽车客运站",
+      "lng": 102.788862,
+      "lat": 25.036904,
+      "address": "虹桥路与照青路交汇处东北角",
+      "tel": "0871-63833680",
+      "type": "交通设施服务;长途汽车站;长途汽车站",
+      "keyword_used": "昆明东部汽车客运站",
+      "adname": "盘龙区",
+      "uri": "https://uri.amap.com/marker?position=102.788862,25.036904&name=%E6%98%86%E6%98%8E%E4%B8%9C%E9%83%A8%E6%B1%BD%E8%BD%A6%E5%AE%A2%E8%BF%90%E7%AB%99&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 0.0
+    },
+    {
+      "id": "stone_forest",
+      "name": "石林风景区",
+      "hits": [
+        {
+          "amap_id": "B036705Y72",
+          "amap_name": "石林风景区",
+          "lng": 103.325701,
+          "lat": 24.812964,
+          "address": "石林街道",
+          "tel": "0871-67711439",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "keyword": "石林风景名胜区",
+          "adname": "石林彝族自治县"
+        },
+        {
+          "amap_id": "B036705Y72",
+          "amap_name": "石林风景区",
+          "lng": 103.325701,
+          "lat": 24.812964,
+          "address": "石林街道",
+          "tel": "0871-67711439",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "keyword": "石林风景区",
+          "adname": "石林彝族自治县"
+        }
+      ],
+      "verified": true,
+      "amap_id": "B036705Y72",
+      "amap_name": "石林风景区",
+      "lng": 103.325701,
+      "lat": 24.812964,
+      "address": "石林街道",
+      "tel": "0871-67711439",
+      "type": "风景名胜;风景名胜;国家级景点",
+      "keyword_used": "石林风景名胜区",
+      "adname": "石林彝族自治县",
+      "uri": "https://uri.amap.com/marker?position=103.325701,24.812964&name=%E7%9F%B3%E6%9E%97%E9%A3%8E%E6%99%AF%E5%8C%BA&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 0.0
+    },
+    {
+      "id": "haigeng",
+      "name": "海埂大坝",
+      "hits": [
+        {
+          "amap_id": "B0FFG7Q1SQ",
+          "amap_name": "海埂大坝",
+          "lng": 102.650825,
+          "lat": 24.973588,
+          "address": "昆明滇池国家旅游度假区观景路(近滇池)",
+          "tel": [],
+          "type": "风景名胜;风景名胜;风景名胜",
+          "keyword": "海埂大坝",
+          "adname": "西山区"
+        },
+        {
+          "amap_id": "B0FFG7Q1SQ",
+          "amap_name": "海埂大坝",
+          "lng": 102.650825,
+          "lat": 24.973588,
+          "address": "昆明滇池国家旅游度假区观景路(近滇池)",
+          "tel": [],
+          "type": "风景名胜;风景名胜;风景名胜",
+          "keyword": "滇池海埂大坝",
+          "adname": "西山区"
+        }
+      ],
+      "verified": true,
+      "amap_id": "B0FFG7Q1SQ",
+      "amap_name": "海埂大坝",
+      "lng": 102.650825,
+      "lat": 24.973588,
+      "address": "昆明滇池国家旅游度假区观景路(近滇池)",
+      "tel": [],
+      "type": "风景名胜;风景名胜;风景名胜",
+      "keyword_used": "海埂大坝",
+      "adname": "西山区",
+      "uri": "https://uri.amap.com/marker?position=102.650825,24.973588&name=%E6%B5%B7%E5%9F%82%E5%A4%A7%E5%9D%9D&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 0.0
+    },
+    {
+      "id": "longmen",
+      "name": "西山龙门",
+      "hits": [
+        {
+          "amap_id": "B0MR0RJLQK",
+          "amap_name": "西山龙门景区",
+          "lng": 102.641725,
+          "lat": 24.956075,
+          "address": "滇池索道山邑村站东南侧90米",
+          "tel": [],
+          "type": "风景名胜;风景名胜;国家级景点",
+          "keyword": "西山龙门",
+          "adname": "西山区"
+        },
+        {
+          "amap_id": "B0FFK865IC",
+          "amap_name": "龙门石窟",
+          "lng": 102.633683,
+          "lat": 24.958576,
+          "address": "西山公路西山国家风景名胜区内",
+          "tel": [],
+          "type": "风景名胜;风景名胜;风景名胜",
+          "keyword": "龙门石窟",
+          "adname": "西山区"
+        }
+      ],
+      "verified": false,
+      "amap_id": "B0MR0RJLQK",
+      "amap_name": "西山龙门景区",
+      "lng": 102.641725,
+      "lat": 24.956075,
+      "address": "滇池索道山邑村站东南侧90米",
+      "tel": [],
+      "type": "风景名胜;风景名胜;国家级景点",
+      "keyword_used": "西山龙门",
+      "adname": "西山区",
+      "uri": "https://uri.amap.com/marker?position=102.641725,24.956075&name=%E8%A5%BF%E5%B1%B1%E9%BE%99%E9%97%A8&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 857.1
+    },
+    {
+      "id": "cuihu",
+      "name": "翠湖公园",
+      "hits": [
+        {
+          "amap_id": "B0367065BF",
+          "amap_name": "翠湖公园",
+          "lng": 102.703621,
+          "lat": 25.048416,
+          "address": "翠湖南路67号",
+          "tel": "0871-65318829",
+          "type": "风景名胜;公园广场;公园",
+          "keyword": "翠湖公园",
+          "adname": "五华区"
+        },
+        {
+          "amap_id": "B0367065BF",
+          "amap_name": "翠湖公园",
+          "lng": 102.703621,
+          "lat": 25.048416,
+          "address": "翠湖南路67号",
+          "tel": "0871-65318829",
+          "type": "风景名胜;公园广场;公园",
+          "keyword": "翠湖",
+          "adname": "五华区"
+        }
+      ],
+      "verified": true,
+      "amap_id": "B0367065BF",
+      "amap_name": "翠湖公园",
+      "lng": 102.703621,
+      "lat": 25.048416,
+      "address": "翠湖南路67号",
+      "tel": "0871-65318829",
+      "type": "风景名胜;公园广场;公园",
+      "keyword_used": "翠湖公园",
+      "adname": "五华区",
+      "uri": "https://uri.amap.com/marker?position=102.703621,25.048416&name=%E7%BF%A0%E6%B9%96%E5%85%AC%E5%9B%AD&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 0.0
+    },
+    {
+      "id": "ynu",
+      "name": "云南大学(东陆校区)",
+      "hits": [
+        {
+          "amap_id": "B0FFGKFM09",
+          "amap_name": "云南大学东陆校区",
+          "lng": 102.702773,
+          "lat": 25.055423,
+          "address": "华山街道翠湖北路2号",
+          "tel": "0871-65033819;0871-65034114",
+          "type": "科教文化服务;学校;高等院校",
+          "keyword": "云南大学东陆校区",
+          "adname": "五华区"
+        },
+        {
+          "amap_id": "B036709HKW",
+          "amap_name": "云南大学(呈贡校区)",
+          "lng": 102.850335,
+          "lat": 24.826929,
+          "address": "大学城东外环南路",
+          "tel": [],
+          "type": "科教文化服务;学校;高等院校",
+          "keyword": "云南大学",
+          "adname": "呈贡区"
+        }
+      ],
+      "verified": false,
+      "amap_id": "B0FFGKFM09",
+      "amap_name": "云南大学东陆校区",
+      "lng": 102.702773,
+      "lat": 25.055423,
+      "address": "华山街道翠湖北路2号",
+      "tel": "0871-65033819;0871-65034114",
+      "type": "科教文化服务;学校;高等院校",
+      "keyword_used": "云南大学东陆校区",
+      "adname": "五华区",
+      "uri": "https://uri.amap.com/marker?position=102.702773,25.055423&name=%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%28%E4%B8%9C%E9%99%86%E6%A0%A1%E5%8C%BA%29&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 29442.9
+    },
+    {
+      "id": "jinma",
+      "name": "金马碧鸡坊",
+      "hits": [
+        {
+          "amap_id": "B036711C9G",
+          "amap_name": "金马碧鸡坊",
+          "lng": 102.709779,
+          "lat": 25.033329,
+          "address": "金碧街道碧鸡巷2-3号",
+          "tel": "0871-63619908;13888428886",
+          "type": "风景名胜;风景名胜;风景名胜",
+          "keyword": "金马碧鸡坊",
+          "adname": "西山区"
+        },
+        {
+          "amap_id": "B0HGTS8YPK",
+          "amap_name": "金马坊",
+          "lng": 102.71112,
+          "lat": 25.031534,
+          "address": "西山区",
+          "tel": [],
+          "type": "地名地址信息;热点地名;热点地名",
+          "keyword": "金马坊",
+          "adname": "西山区"
+        }
+      ],
+      "verified": true,
+      "amap_id": "B036711C9G",
+      "amap_name": "金马碧鸡坊",
+      "lng": 102.709779,
+      "lat": 25.033329,
+      "address": "金碧街道碧鸡巷2-3号",
+      "tel": "0871-63619908;13888428886",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "keyword_used": "金马碧鸡坊",
+      "adname": "西山区",
+      "uri": "https://uri.amap.com/marker?position=102.709779,25.033329&name=%E9%87%91%E9%A9%AC%E7%A2%A7%E9%B8%A1%E5%9D%8A&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 241.0
+    },
+    {
+      "id": "guandu",
+      "name": "官渡古镇",
+      "hits": [
+        {
+          "amap_id": "B0367065CM",
+          "amap_name": "官渡古镇",
+          "lng": 102.755581,
+          "lat": 24.955125,
+          "address": "九转花街d1号",
+          "tel": "0871-65171515",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "keyword": "官渡古镇",
+          "adname": "官渡区"
+        },
+        {
+          "amap_id": "B0367065CM",
+          "amap_name": "官渡古镇",
+          "lng": 102.755581,
+          "lat": 24.955125,
+          "address": "九转花街d1号",
+          "tel": "0871-65171515",
+          "type": "风景名胜;风景名胜;国家级景点",
+          "keyword": "官渡古镇景区",
+          "adname": "官渡区"
+        }
+      ],
+      "verified": true,
+      "amap_id": "B0367065CM",
+      "amap_name": "官渡古镇",
+      "lng": 102.755581,
+      "lat": 24.955125,
+      "address": "九转花街d1号",
+      "tel": "0871-65171515",
+      "type": "风景名胜;风景名胜;国家级景点",
+      "keyword_used": "官渡古镇",
+      "adname": "官渡区",
+      "uri": "https://uri.amap.com/marker?position=102.755581,24.955125&name=%E5%AE%98%E6%B8%A1%E5%8F%A4%E9%95%87&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 0.0
+    },
+    {
+      "id": "station",
+      "name": "昆明站(昆明火车站)",
+      "hits": [
+        {
+          "amap_id": "B036705IZ2",
+          "amap_name": "昆明站",
+          "lng": 102.722277,
+          "lat": 25.015257,
+          "address": "北京路1号",
+          "tel": "0871-63511534",
+          "type": "交通设施服务;火车站;火车站",
+          "keyword": "昆明站",
+          "adname": "官渡区"
+        },
+        {
+          "amap_id": "B036705IZ2",
+          "amap_name": "昆明站",
+          "lng": 102.722277,
+          "lat": 25.015257,
+          "address": "北京路1号",
+          "tel": "0871-63511534",
+          "type": "交通设施服务;火车站;火车站",
+          "keyword": "昆明火车站",
+          "adname": "官渡区"
+        }
+      ],
+      "verified": true,
+      "amap_id": "B036705IZ2",
+      "amap_name": "昆明站",
+      "lng": 102.722277,
+      "lat": 25.015257,
+      "address": "北京路1号",
+      "tel": "0871-63511534",
+      "type": "交通设施服务;火车站;火车站",
+      "keyword_used": "昆明站",
+      "adname": "官渡区",
+      "uri": "https://uri.amap.com/marker?position=102.722277,25.015257&name=%E6%98%86%E6%98%8E%E7%AB%99%28%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99%29&src=kunming-trip&coordinate=gaode&callnative=1",
+      "deviation_m": 0.0
+    }
+  ]
+}
